@@ -1,0 +1,2 @@
+- [ML for Everybody Course](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=38s) ~ freeCodeCamp
+- [ML Projects Playlist](https://www.youtube.com/playlist?list=PLqM7alHXFySGTcwBQV-hYDkYAPJ4EPHe9) ~ GeekforGeeks
